@@ -1,0 +1,29 @@
+.venue h3{
+    color:#319DC4;
+}
+.venue .address{
+    border-right: 2px solid #19785f;
+    padding-right: 4rem;
+}
+.venue .timing{
+    margin-left: 5rem;
+}
+
+.venue .details{
+    display: flex;
+}
+
+.venue .details,.venue .details2{
+ display: flex;
+ justify-content: center;
+}
+
+.venue .details2{
+    margin-top: 5vh;
+}
+
+.venue img{
+    height: 30vh;
+    width: 35vw;
+    border-radius: 1rem;
+}

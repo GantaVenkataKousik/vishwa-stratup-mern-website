@@ -1,0 +1,13 @@
+.footer{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.footer span{
+    color: #319DC4;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
